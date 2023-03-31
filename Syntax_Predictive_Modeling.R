@@ -1,4 +1,4 @@
-##### R Script Sophie Oprée: Data Mining and Predictive Modeling in Marketing #####
+##### R Script Sophie Oprée: Predicting Cross-Buying Behavior #####
 
 # Data exploration ####
 
